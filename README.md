@@ -1,4 +1,4 @@
-# BCS Group 34 - Graph IT! An Interactive Graph Coloring Game
+Graph IT! An Interactive Graph Coloring Game
 
 Graph coloring refers to the problem of assigning colors to vertices in a graph in such a way that one uses the least amount of colors possible so that no two adjacent vertices share the same color. The minimum amount of colors that can be used to color a graph in such a way is the chromatic number for the corresponding graph.
 
@@ -103,7 +103,7 @@ These are the following functionalities:
 10. Type display
 
 
-# Team Members
+# Team Members - BCS Group 34
 1. Omar Elfiki
 2. Mihnea Jianu
 3. Vlad Manolescu
