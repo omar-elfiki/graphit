@@ -1,0 +1,75 @@
+.rounded-text-field {
+    -fx-background-radius: 15;
+    border-radius: 15px;
+    -fx-border-radius: 15;
+    padding: 5px;
+    -fx-padding: 5;
+    background-color: #D9D9D9;
+    -fx-background-color: #D9D9D9;
+    -fx-text-fill: #000000;
+    text-align: center;
+    -fx-text-align: center;
+}
+
+.rounded-button {
+    -fx-background-radius: 15;
+    border-radius: 15px;
+    -fx-border-radius: 15;
+    padding: 5px;
+    -fx-padding: 5;
+    background-color: #fffFFF;
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #000000;
+    text-align: center;
+    -fx-text-align: center;
+}
+
+.rounded-button:pressed {
+    border-color: #000000;
+    -fx-border-color: #000000;
+}
+
+.give-up-button {
+    -fx-background-radius: 15;
+    border-radius: 15px;
+    -fx-border-radius: 15;
+    padding: 5px;
+    -fx-padding: 5;
+    background-color: #FF0000;
+    -fx-background-color: #FF0000;
+    -fx-text-fill: #FFFFFF;
+    text-align: center;
+    -fx-text-align: center;
+}
+
+.give-up-button:pressed {
+    border-color: #000000;
+    -fx-border-color: #000000;
+}
+
+.pause-button {
+    -fx-background-radius: 20;
+    border-radius: 20px;
+    -fx-border-radius: 20;
+    padding: 5px;
+    -fx-padding: 5;
+    background-color: #FFD700;
+    -fx-background-color: #FFD700;
+    -fx-text-fill: #000000;
+    text-align: center;
+    -fx-text-align: center;
+}
+
+.pause-button:pressed {
+    border-color: #000000;
+    -fx-border-color: #000000;
+}
+
+/* .clock-shape {
+    fill: #FFFFFF; 
+    -fx-fill: #FFFFFF;
+    stroke: #000000; 
+    -fx-stroke: #000000; 
+    stroke-width: 2; 
+    -fx-stroke-width: 2;
+} */

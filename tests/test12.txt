@@ -1,0 +1,7 @@
+VERTICES = 5
+EDGES = 0
+1 
+2
+3
+4
+5
